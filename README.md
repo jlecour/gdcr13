@@ -2,7 +2,7 @@
 
 * site officiel : [coderetreat.org](http://coderetreat.org)
 * article "[participer à une coderetreat](http://jeremy.wordpress.com/2013/10/27/participer-a-une-coderetreat/)"
-* [page d'inscription](https://tito.io/jlecour/coderetreat-marseille-2013) (à terminer)
+* [page d'inscription](http://gdcr13.coderetreat-marseille.org) (à terminer)
 
 # Sponsors
 
