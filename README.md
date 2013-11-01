@@ -32,15 +32,7 @@ On prévoit environ 30 repas (participants, facilitateurs et soutiens), à ajust
 
 # Collations
 
-- [ ] café en grain (Noailles n°5)
-- [ ] thé
-- [ ] viennoiseries
-- [ ] jus de fruits
-- [ ] Coca, Orangina
-- [ ] petites bouteilles d'eau de source (×48)
-- [ ] fruits
-- [ ] quatre-quarts
-- ?
+- [Issue #6](https://github.com/jlecour/gdcr13/issues/6)
 
 # Lieu
 
@@ -63,34 +55,17 @@ Il y a un accès Internet par Freebox.
 
 # À apporter à la MdC
 
-- [ ] machine(s) à café
-- [ ] vérifier les tasses, verres, …
-- [ ] multiprises et rallonges
-- [ ] routeur wifi du PLUG (+ câbles ethernet)
-- [ ] video-projecteur (à emprunter)
-- [ ] flyers avec règles du jeu et consignes
+- [Issue #1](https://github.com/jlecour/gdcr13/issues/1)
 
 # Communication
 
-## Annonce d’ouverture des inscriptions (14 novembre)
-
-- [ ] twitter [@CodeRetreatMrs][coderetreatmrs]
-- [ ] retweet [@jlecour][jlecour], [@plugfr][plugfr], [@pastisrb][pastisrb]
-- [ ] retweet [@marsJUG][marsjug] par Julien
-- [ ] retweet [@MarseilleJS][marseillejs] par François
-- [ ] mail aux copains "dev"
-
-
-## En cas d'inscriptions timides
-
-- [ ] relai LinuxFR, … par **verow** (canal #plugfr sur IRC Freenode)
-- [ ] relai Libertis, MedinSoft, … par **Sébastien Dubois**
-- [ ] relai écoles d'ingé, … par **Henri-Damien Laurent**
+- [Issue #2](https://github.com/jlecour/gdcr13/issues/2)
+- [Issue #3](https://github.com/jlecour/gdcr13/issues/3)
 
 ## e-mails aux inscrits
 
-- [ ] infos générales le 3 décembre
-- [ ] rappel le 10 décembre
+- [Issue #4](https://github.com/jlecour/gdcr13/issues/4)
+- [Issue #5](https://github.com/jlecour/gdcr13/issues/5)
 
 [pastisrb]: http://twitter.com/pastisrb
 [coderetreatmrs]: http://twitter.com/coderetreatmrs
