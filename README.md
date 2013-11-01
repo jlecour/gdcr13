@@ -8,7 +8,7 @@
 
 * [AGILiDEE][agilidee] (via [Benoît Gantaume][gantaume])
 * [Evolix][evolix] (via [Grégory Colpart][gcolpart])
-* [Happyculture][happyculture] (via [Guillaume Bes][bes_fr])
+* [Happyculture][happyculture] (via [Guillaume Bec][bes_fr])
 
 # Facilitateurs
 
