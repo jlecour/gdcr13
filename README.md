@@ -6,15 +6,15 @@
 
 # Sponsors
 
-* [AGILiDEE](http://www.agilidee.com) (via Benoît Gantaume)
-* [Evolix](http://www.evolix.fr) (via Grégory Colpart)
-* [Happyculture](http://happyculture.coop) (via Guillaume Bes)
+* [AGILiDEE][agilidee] (via [Benoît Gantaume][gantaume])
+* [Evolix][evolix] (via [Grégory Colpart][gcolpart])
+* [Happyculture][happyculture] (via [Guillaume Bes][bes_fr])
 
 # Facilitateurs
 
-* [Claire Hernandez](http://twitter.com/clrh)
-* [Julien Viet](http://twitter.com/julienviet)
-* [Jérémy Lecour](http://twitter.com/jlecour)
+* [Claire Hernandez][clrh]
+* [Julien Viet][julienviet]
+* [Jérémy Lecour][jlecour]
 
 # Aide logistique
 
@@ -74,10 +74,10 @@ Il y a un accès Internet par Freebox.
 
 ## Annonce d’ouverture des inscriptions (14 novembre)
 
-- [ ] twitter @CodeRetreatMrs
-- [ ] retweet @jlecour, @plugfr, @pastisrb
-- [ ] retweet @marsJUG par Julien
-- [ ] retweet @MarseilleJS par François
+- [ ] twitter [@CodeRetreatMrs][coderetreatmrs]
+- [ ] retweet [@jlecour][jlecour], [@plugfr][plugfr], [@pastisrb][pastisrb]
+- [ ] retweet [@marsJUG][marsjug] par Julien
+- [ ] retweet [@MarseilleJS][marseillejs] par François
 - [ ] mail aux copains "dev"
 
 
@@ -92,3 +92,17 @@ Il y a un accès Internet par Freebox.
 - [ ] infos générales le 3 décembre
 - [ ] rappel le 10 décembre
 
+[pastisrb]: http://twitter.com/pastisrb
+[coderetreatmrs]: http://twitter.com/coderetreatmrs
+[jlecour]: http://twitter.com/jlecour
+[plugfr]: http://twitter.com/plugfr
+[marsjug]: http://twitter.com/marsjug
+[marseillejs]: http://twitter.com/marseillejs
+[julienviet]: http://twitter.com/julienviet
+[clrh]: http://twitter.com/clrh
+[bes_fr]: http://twitter.com/bes_fr
+[gantaume]: http://twitter.com/gantaume
+[gcolpart]: http://twitter.com/gcolpart
+[agilidee]: http://www.agilidee.com
+[evolix]: http://www.evolix.fr
+[happyculture]: http://happyculture.coop
