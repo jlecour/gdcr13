@@ -1,3 +1,5 @@
+![logo Coderetreat Marseille](https://raw.github.com/jlecour/gdcr13/master/images/passbook.png)
+
 # Infos générales
 
 * site officiel : [coderetreat.org](http://coderetreat.org)
