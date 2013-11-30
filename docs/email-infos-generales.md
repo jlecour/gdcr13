@@ -1,11 +1,11 @@
 Bonjour à toutes et tous,
 
 Merci pour votre inscription à la coderetreat du 14 décembre.
-Voilà quelques informations sur la journée.
+Voilà quelques informations pratiques.
 
 # Déroulement de la journée
 
-Nous vous accueillerons à partie de 8h30 à La Maison du Chant.
+Nous vous accueillerons à partir de 8h30 à La Maison du Chant.
 Un petit-déjeuner vous permettra d'attaquer la journée avec le ventre plein
 et vous donnera le temps de faire connaissance avec les autres personnes.
 
@@ -13,10 +13,10 @@ et vous donnera le temps de faire connaissance avec les autres personnes.
 de la journée puis les 3 sessions du matin.
 
 Nous déjeunerons sur place, avec une longue pause conviviale d'1h30.
-Un menu complet et varié accomodera les préférences et contraintes de chacun.
+Un menu complet et varié accommodera les préférences et contraintes de chacun.
 
 L'après-midi sera occupée par 2 ou 3 autres sessions.
-Une retrospective complète permettra de clore la journée entre 17h et 18h.
+Une rétrospective complète permettra de clore la journée entre 17h et 18h.
 
 Ceux qui le souhaitent pourront prolonger la journée autour d'un verre.
 
@@ -26,9 +26,9 @@ Vous devez préparer et venir avec un ordinateur portable avec lequel
 vous devrez pouvoir **écrire et tester du code**.
 Préparez au moins un environnement/langage dans lequel vous êtes à l'aise.
 Que ce soit un IDE complet avec framework de test intégré
-ou un simple interpreteur et des macros d'assertions pour tester le code.
+ou un simple interpréteur et des macros d'assertions pour tester le code.
 
-Si vous êtes polyglotes, essayez de préparer plusieurs environnements.
+Si vous êtes polyglottes, essayez de préparer plusieurs environnements.
 Ça vous permettra d'être un binôme plein de ressources ;)
 
 Ne comptez pas sur la mise en place de vos outils sur le moment.
@@ -41,6 +41,18 @@ Vérifiez tous ça en mode "hors ligne" avant de venir.
 
 N'oubliez pas vos chargeurs ainsi que les accessoires qui vous permettront
 de travailler confortablement toute une journée (clavier étendu, souris, …).
+
+# Comment venir
+
+Nous sommes accueillis par **La Maison du Chant**, située au 15 rue d'Isoard, 13001, Marseille (GPS: 43.3026157, 5.390072).
+
+Transports en commun :
+
+* les arrêts "National" et "Longchamp" du Tramway 2 sont les plus proches ;
+* les arrêts "Réformés-Canebière" et "Cinq Avenues Longchamp" du Métro 1 sont à 5 minutes à pieds ;
+* les bus 33, 34, 49, 68 et 81 sont également à proximité.
+
+Un parking gratuit est au niveau du 48 rue Commandant Mages (GPS: 43.3038861, 5.3905957).
 
 
 
