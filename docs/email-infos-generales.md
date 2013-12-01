@@ -42,6 +42,10 @@ Vérifiez tous ça en mode "hors ligne" avant de venir.
 N'oubliez pas vos chargeurs ainsi que les accessoires qui vous permettront
 de travailler confortablement toute une journée (clavier étendu, souris, …).
 
+Et enfin, n'oubliez pas de venir avec vos neurones connectés ;
+vous allez devoir remettre en question beaucoup de vos habitudes
+et apprendre de nouvelles techniques et bonnes pratiques.
+
 # Comment venir
 
 Nous sommes accueillis par **La Maison du Chant**, située au 15 rue d'Isoard, 13001, Marseille (GPS: 43.3026157, 5.390072).
